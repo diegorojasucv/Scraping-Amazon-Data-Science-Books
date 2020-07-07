@@ -1,6 +1,7 @@
 """
-Elaborado por: Diego Rojas
-Fecha: 20 Junio 2020
+OBJETIVO: Extraer la descripcion de los libros de Data Science publicados en la página web de Amazon.
+ELABORADO POR: Diego Rojas
+FECHA DE ELABORACIÓN: 20 Junio 2020
 """
 from datetime import date
 from selenium import webdriver
